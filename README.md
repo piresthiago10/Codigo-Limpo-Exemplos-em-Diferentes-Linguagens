@@ -8,8 +8,8 @@ Inicialmente os exemplos estão na linguagem Python, futuramente pretendo adicio
 
 ## Capítulos resumidos
 
-- [x] Código Limpo
-- [ ] Nomes Significativos
+- [x] [Código Limpo](/python/Capitulo%201%20-%20Codigo%20Limpo/codigo_limpo.md)
+- [ ] [Nomes Significativos](/python/Capitulo%202%20-%20Nomes%20Significativos/nomes_significativos.md)
 - [ ] Funções
 - [ ] Comentários
 - [ ] Formatação
