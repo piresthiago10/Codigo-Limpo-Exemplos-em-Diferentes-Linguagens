@@ -1,0 +1,7 @@
+# Capítulo I - Código Limpo
+
+Apesar do advento da inteligência artificial e de suas valiosas sugestões de código, ainda são necessárias algumas refatorações e compreensão dos requisitos de negócios para garantir que o software a ser desenvolvido atenda às expectativas. Portanto, a demanda por profissionais desenvolvedores de software permanece crucial.
+
+Como usuários, frequentemente nos deparamos com softwares de qualidade inferior, seja ao utilizar aplicativos ou sites que apresentam lentidão na interface, param de responder, ficam constantemente fora de serviço e eventualmente indisponíveis para acesso ou download devido à descontinuidade do projeto. No caso dos desenvolvedores, é comum lidar com projetos com prazos de entrega apertados, mudanças constantes nos requisitos, gerentes que não compreendem o processo de desenvolvimento, clientes intolerantes e diversos outros fatores que impactam a qualidade do código.
+
+Não apenas fatores externos afetam o código; parte dessa responsabilidade recai sobre o autor do código. Ao tentar ser mais rápido, agir com pressa, estar cansado ou buscar eficiência de maneira inadequada, o resultado pode ser um código desorganizado, sem coerência e que funciona apenas na máquina do desenvolvedor. 
