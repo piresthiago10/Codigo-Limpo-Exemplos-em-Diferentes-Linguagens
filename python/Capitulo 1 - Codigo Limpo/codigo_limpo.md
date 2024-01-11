@@ -6,7 +6,7 @@ Como usuários, frequentemente nos deparamos com softwares de qualidade inferior
 
 Não apenas fatores externos afetam o código; parte dessa responsabilidade recai sobre o autor do código. Ao tentar ser mais rápido, agir com pressa, estar cansado ou buscar eficiência de maneira inadequada, o resultado pode ser um código desorganizado, sem coerência e que funciona apenas na máquina do desenvolvedor.
 
-Realizar manutenção em um código ruim é muito custoso e desgastante, refatorar um código mal escrito pode levar horas, dependender do desforço de muitos profissionais que por sua vez podem acertar ou errar no que está sendo feito na manutenção, gerando mais problemas, elevando o valor investimento no projeto e diminuindo a valiosa produtividade.
+Realizar manutenção em um código ruim é muito custoso e desgastante, refatorar um código mal escrito pode levar horas, dependender do desforço de muitos profissionais que por sua vez podem acertar ou errar no que está sendo feito na manutenção, gerando mais problemas, elevando o valor do investimento no projeto e diminuindo a valiosa produtividade.
 
 Possivelmente aconteça o esforço de ser feita uma nova versão do sofware com o intuito de não repetir os erros da versão antiga, no entanto, com o passar do tempo, acontece a rotatividade de membros do novo projeto, erros antigos voltam a acontecer e o novo software passa a ser tão ruim quanto o antigo.
 
