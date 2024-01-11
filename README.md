@@ -19,7 +19,7 @@ Com o propósito de revisar e disseminar conhecimentos acerca das melhores prát
 - [ ] Concorrência
 - [ ] Refinamento Sucessivo
 - [ ] Características internas do JUnit (susbtituir por alguma biblioteca do python)
-- [ ] Refatirando o SerialDate
+- [ ] Refatorando o SerialDate
 - [ ] Odores e Heuristícas
 
 ### Apêndices
